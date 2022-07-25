@@ -1,2 +1,2 @@
-Problem 18 :
+Problem 17 :
 Find Factorial of a given number using recursion.

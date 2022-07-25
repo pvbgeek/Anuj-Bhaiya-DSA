@@ -1,3 +1,4 @@
+Problem 14 :
 Given an Array
 
 The array has only one unique element and all other elements occur twice

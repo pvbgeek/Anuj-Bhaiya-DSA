@@ -6,13 +6,13 @@ public class Main
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number");
         int x = sc.nextInt();
-        if((x&1) == 0) // Using Bitwise Operator Logic
+        if(x&1) // Using Bitwise Operator Logic
         {
-            System.out.println(x + " is an Even Number.");
+            System.out.println(x + " is an Odd Number.");
         }
         else
         {
-            System.out.println(x + " is an Odd Number.");
+            System.out.println(x + " is an Even Number.");
         }
     }
 }

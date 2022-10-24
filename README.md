@@ -31,11 +31,11 @@ All Problems which are covered in Anuj Bhaiya Youtube Playlist
 
 [15] Non-Repeating in Array Part-2.
 
-[16] Factorial Part-1.
+[16] Factorial Part-1. (Normal Facorial using loop)
 
-[17] Factorial Part-2.
+[17] Factorial Part-2. (Factorial using Recursion)
 
-[18] Factorial Part-3.
+[18] Factorial Part-3. (Find number of trailing zeros in the Factorial)
 
 [19] Palindrome Number.
 

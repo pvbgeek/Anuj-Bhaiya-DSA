@@ -1,2 +1,2 @@
-# Coding-Interview-Problems-Part-1
-Series Of Coding Interview Problems Commonly Asked In Placements.
+# Anuj-Bhaiya-DSA
+All Problems which are covered in Anuj Bhaiya Youtube Playlist

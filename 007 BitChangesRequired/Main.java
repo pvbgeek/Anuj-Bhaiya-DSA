@@ -7,7 +7,7 @@ public class Main
         int a = 6; // Initial Number
         int b = 5; // Final Number
         int cnt = 0 ; // Count of changes
-        int n = a^b;
+        int n = a^b; // To find the number of different bits in a and b.
         while(n!=0)
         {
             cnt++;
